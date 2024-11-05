@@ -1,12 +1,15 @@
   [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16961109&assignment_repo_type=AssignmentRepo)
  se-day-2-git-and-github
+
+ 
 1.)Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
     -Version control is a system that records changes to a file or set of files over time, enabling developers to track, manage, and revert to previous versions.It’s an essential tool in 
      software development for collaboration, ensuring code integrity, and managing complex projects effectively.
     -GitHub is popular since it is a cloud-based platform where developers can store and manage their Git repositories. It also helps developers collaborate, review, and share projects 
      with the world! hence its popular
     -version control maintains integrity because it prevents data loss, it also tracks changes and accountability it facilitates collaboration
+    
 2.)Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
      To set up a new repository on GitHub:
    step 1: Log in: Sign into GitHub and go to the "Repositories" tab.
@@ -28,6 +31,7 @@ Visibility (public/private), initial files to include (README, .gitignore, licen
                                             3)Usage Guide
                                             4)Features and Functionality: highlight key features and functions on the project
                                             5)Contribution Guidelines: Outline how others can contribute
+                                            
 4.)Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
    --Public Repository: A public repository is accessible to anyone on the internet. Anyone can view, clone, and contribute to the repository, subject to permissions.
      Advantages:
