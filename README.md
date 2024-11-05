@@ -57,10 +57,10 @@ Private repositories are better suited for proprietary projects, commercial soft
 5.Connect to Remote Repository: using git remote add origin https://github.com/username/repository.git
 6.Push the Commit to GitHub: git push -u origin master 
    Importance of Commits
->Tracking Changes: Commits create a history of modifications, allowing you to see what has changed over time.
->Version Management: They enable you to revert to previous states of your project if needed.
->Collaboration: Commits facilitate teamwork by providing a clear record of contributions and changes.
->Documentation: Descriptive commit messages act as documentation for understanding the context of changes.
+Tracking Changes: Commits create a history of modifications, allowing you to see what has changed over time.
+Version Management: They enable you to revert to previous states of your project if needed.
+Collaboration: Commits facilitate teamwork by providing a clear record of contributions and changes.
+Documentation: Descriptive commit messages act as documentation for understanding the context of changes.
 
 6.)How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 --Branching in Git allows developers to create separate lines of development within a repository, enabling them to work on different features, fixes, or experiments without affecting the 
