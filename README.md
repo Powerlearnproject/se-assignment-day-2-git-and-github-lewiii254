@@ -27,11 +27,12 @@ Visibility (public/private), initial files to include (README, .gitignore, licen
 
 ## 3.)Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 - A README file is generally used to describe your project, provide setup instructions, and explain usage.
-- A well written README file should have 1.)Project Title and Description : Clearly state the name and purpose of the project.
-                                            2.)nstallation Instructions
-                                            3.)Usage Guide
-                                            4.)Features and Functionality: highlight key features and functions on the project
-                                            5.)Contribution Guidelines: Outline how others can contribute
+- A well written README file should have :
+1. Project Title and Description : Clearly state the name and purpose of the project.
+2. installation Instructions
+3. Usage Guide
+4. Features and Functionality: highlight key features and functions on the project
+5. Contribution Guidelines: Outline how others can contribute
                                             
 ## 4.)Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 * Public Repository: A public repository is accessible to anyone on the internet. Anyone can view, clone, and contribute to the repository, subject to permissions.
