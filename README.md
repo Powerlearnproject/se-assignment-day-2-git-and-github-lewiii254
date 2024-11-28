@@ -18,10 +18,10 @@
   3. Name and Description: Enter a unique repository name and, optionally, a description.
   4. Visibility: Choose visibility—Public (anyone can view) or Private (restricted access).
   5. Initialize Options: Decide if you want to add:
-    *   A README file (overview and instructions),
-    *  A .gitignore file (specifies ignored files for commits),
-    *  A license (sets terms for reuse).
-  6: Create Repository: Click “Create repository” to finalize.
+   *   A README file (overview and instructions),
+   *  A .gitignore file (specifies ignored files for commits),
+   *  A license (sets terms for reuse).
+  6. Create Repository: Click “Create repository” to finalize.
 Important Decisions:
 Visibility (public/private), initial files to include (README, .gitignore, license), and naming (should be clear and relevant). These choices impact accessibility, organization, and collaboration.
 
