@@ -12,15 +12,16 @@
     
 ## 2.)Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
    To set up a new repository on GitHub follow the steps:
-    1. Log in: Sign into GitHub and go to the "Repositories" tab.
-    2. Create a New Repository: Click “New” to start a new repository.
-    3. Name and Description: Enter a unique repository name and, optionally, a description.
-    4. Visibility: Choose visibility—Public (anyone can view) or Private (restricted access).
-    5. Initialize Options: Decide if you want to add:
-         *   A README file (overview and instructions),
-        *  A .gitignore file (specifies ignored files for commits),
-        *  A license (sets terms for reuse).
-   6: Create Repository: Click “Create repository” to finalize.
+   
+  1. Log in: Sign into GitHub and go to the "Repositories" tab.
+  2. Create a New Repository: Click “New” to start a new repository.
+  3. Name and Description: Enter a unique repository name and, optionally, a description.
+  4. Visibility: Choose visibility—Public (anyone can view) or Private (restricted access).
+  5. Initialize Options: Decide if you want to add:
+    *   A README file (overview and instructions),
+    *  A .gitignore file (specifies ignored files for commits),
+    *  A license (sets terms for reuse).
+  6: Create Repository: Click “Create repository” to finalize.
 Important Decisions:
 Visibility (public/private), initial files to include (README, .gitignore, license), and naming (should be clear and relevant). These choices impact accessibility, organization, and collaboration.
 
